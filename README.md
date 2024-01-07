@@ -4,4 +4,4 @@
 
 # License
 
-Kaan Aslan'ın notundan faydalanılmıştır.
+gi
